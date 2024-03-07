@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A short description of UncleThird.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/18906929301@sina.cn/UncleThird",
+  "homepage": "https://github.com/godwar10/UncleThird",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "18906929301@sina.cn": "352829617@qq.com"
   },
   "source": {
-    "git": "https://github.com/18906929301@sina.cn/UncleThird.git",
+    "git": "https://github.com/godwar10/UncleThird.git",
     "tag": "0.1.0"
   },
   "platforms": {
