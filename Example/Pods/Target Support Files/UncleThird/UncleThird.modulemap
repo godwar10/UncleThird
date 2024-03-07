@@ -1,0 +1,6 @@
+framework module UncleThird {
+  umbrella header "UncleThird-umbrella.h"
+
+  export *
+  module * { export * }
+}
